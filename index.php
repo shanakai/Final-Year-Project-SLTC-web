@@ -69,10 +69,8 @@ header('Expires: 0');
   <section id="hero">
 
     <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
-    <div id="watermark">
-  <p style="color: white; font-size:4px;font-weight:bold;">This is a watermark. Developed my MK developerss.  This is a watermark. .</p>
-</div>
-      <h1>Welcome to Vehicle Identification System developed my MK developers...  water mark</h1>
+   
+      <h1>Welcome to Vehicle Identification System</h1>
       <h2>Vehicle Identification System Designed to Highways</h2>
       <a href="user/home_user.php" class="btn-get-started">Get Started</a>
     </div>
